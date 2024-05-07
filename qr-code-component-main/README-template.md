@@ -18,11 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+-website in Desktop (screenshot)
+![](./Screenshot 2024-05-07 174708.png)
 
-![](./screenshot.jpg)
-
-
-
+-website in Mobile (screenshot)
+![](./)
 
 
 ### Links
