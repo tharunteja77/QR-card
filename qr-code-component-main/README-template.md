@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./Screenshot 2024-05-07 174708.png)
 
 -website in Mobile (screenshot)
-![](./)
+![](./Screenshot 2024-05-07 174740.png)
 
 
 ### Links
